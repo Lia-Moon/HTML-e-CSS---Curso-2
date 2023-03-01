@@ -1,3 +1,5 @@
+![Imagem do curso](https://github.com/Lia-Moon/HTML-e-CSS---Curso-2/blob/d00c11838a6c591dbe6afb0d05572cfc2a82bc07/assets/Front-end-A%20partir%20do%20zero_.png)
+
 # A partir do zero: HTML e CSS para projetos web
 
 ## Se desenvolva como um Dev em T em Front-end
