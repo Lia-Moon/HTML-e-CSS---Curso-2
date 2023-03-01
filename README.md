@@ -1,4 +1,4 @@
-![Imagem do curso](https://github.com/Lia-Moon/HTML-e-CSS---Curso-2/blob/d00c11838a6c591dbe6afb0d05572cfc2a82bc07/assets/Front-end-A%20partir%20do%20zero_.png)
+![Front-end-A partir do zero_](https://user-images.githubusercontent.com/112638042/222170336-2d7c6f83-53bb-4e45-b4a2-8e5eb5c36713.png)
 
 # A partir do zero: HTML e CSS para projetos web
 
